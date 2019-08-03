@@ -1,4 +1,9 @@
-﻿using UnityEngine;
+﻿///////////////////////////////////////////////////////////////////
+//https://gist.github.com/ryoojw/26264efba0519ba7817828fa81e2092b//
+//https://www.youtube.com/watch?v=OsnyJNbqYXo//////////////////////
+///////////////////////////////////////////////////////////////////
+
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections;
